@@ -32,7 +32,7 @@ def final(link)
 end
 
 puts final(page)
-
+ #le (page) permets de rappeler au programme le début pour qu'il aille de haut en bas.
 
 #le .zip .. to_h permets de combiner deux array en un hash. 
 
